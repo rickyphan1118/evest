@@ -6,7 +6,7 @@ import './HeroSection.css';
 function HeroSection() {
   return (
     <div className='hero-container'>
-      <video src='/videos/video.mp4' autoPlay loop muted />
+      <video src='/videos/video-3.mov' autoPlay loop muted />
       <h1>INVEST WITH EVEST</h1>
       <p>A new way to invest with our patented invention of eFlow's Methodology</p>
       <div className='hero-btns'>
